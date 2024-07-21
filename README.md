@@ -9,3 +9,5 @@ just go to releases
 click ur operating system
 
 IF YOU SEE A SMARTSCREEN POPUP, CLICK MORE INFO AND RUN ANYWAY. THIS IS BECAUSE YOU NEED TO SIGN YOUR APP AND ITS LIKE 100 POUND EVERY MONTH.
+If it crashes, use the html file game instead.
+
